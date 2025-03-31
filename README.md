@@ -1,7 +1,7 @@
 ### **Telecom Customer Churn Analysis Using Power BI**  
 
 #### 📌 **Project Overview**  
-This project analyzes customer churn for a **telecom company** using **Power BI**, identifying key factors influencing churn and providing insights to reduce customer attrition.  
+This project analyzes customer churn for a **telecom company** using **Power BI**, identifying key factors influencing churn and providing insights to reduce customer churn.  
 
 #### 🔍 **Key Variables**  
 The dataset includes essential customer details such as:  
